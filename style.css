@@ -1,0 +1,107 @@
+body {margin:0;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+.idem {
+    float: left;
+ }
+.idem{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.idem {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.idem:hover {
+  background-color: rgb(57, 54, 243);
+}
+ol {
+    display: inline;
+}
+
+
+.submenu{
+    margin: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(128, 18, 231);
+}
+.vivid {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(228, 22, 66);
+}
+div.submenu {
+    float: right;
+    border-right:2px solid rgb(18, 236, 10);
+}
+.devis {
+    display: block;
+    color: rgb(245, 236, 236);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: block;
+    float: block;
+}
+
+div.tof {
+    margin: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  div.tof:hover {
+    border: 1px solid #777;
+  }
+  
+  div.tof img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 5px;
+    text-align: center;
+  }
+.pied {
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+    background-color: white;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  
